@@ -1,1 +1,2 @@
-/home/safia/workspaces/labs/fun/hello-quarkus/src/main/java/org/acme/GreetingResource.java
+/home/safia/workspaces/labs/fun/hello-quarkus/src/main/java/org/acme/UsersResource.java
+/home/safia/workspaces/labs/fun/hello-quarkus/src/main/java/org/acme/AdminResource.java
